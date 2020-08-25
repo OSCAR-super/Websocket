@@ -1,0 +1,6 @@
+server:
+  port: 7007
+  ssl:
+    key-store: classpath:fzulyt.fun.jks
+    key-store-password: 4y004x18ha2
+    enabled: true
